@@ -27,15 +27,27 @@
     "cowsay": {
       "Package": "cowsay",
       "Version": "0.8.0",
-      "Source": "Repository",
-      "Repository": "CRAN",
+      "Source": "CRAN",
+      "Repository": "RSPM",
+      "RemoteType": "standard",
+      "RemotePkgRef": "cowsay",
+      "RemoteRef": "cowsay",
+      "RemoteRepos": "https://packagemanager.rstudio.com/all/__linux__/focal/latest",
+      "RemotePkgPlatform": "source",
+      "RemoteSha": "0.8.0",
       "Hash": "3c5fdcb12517c29280e6e66f77f77803"
     },
     "crayon": {
       "Package": "crayon",
       "Version": "1.4.2",
-      "Source": "Repository",
-      "Repository": "CRAN",
+      "Source": "CRAN",
+      "Repository": "RSPM",
+      "RemoteType": "standard",
+      "RemotePkgRef": "crayon",
+      "RemoteRef": "crayon",
+      "RemoteRepos": "https://packagemanager.rstudio.com/all/__linux__/focal/latest",
+      "RemotePkgPlatform": "source",
+      "RemoteSha": "1.4.2",
       "Hash": "0a6a65d92bd45b47b94b84244b528d17"
     },
     "digest": {
@@ -62,8 +74,14 @@
     "fortunes": {
       "Package": "fortunes",
       "Version": "1.5-4",
-      "Source": "Repository",
-      "Repository": "CRAN",
+      "Source": "CRAN",
+      "Repository": "RSPM",
+      "RemoteType": "standard",
+      "RemotePkgRef": "fortunes",
+      "RemoteRef": "fortunes",
+      "RemoteRepos": "https://packagemanager.rstudio.com/all/__linux__/focal/latest",
+      "RemotePkgPlatform": "source",
+      "RemoteSha": "1.5-4",
       "Hash": "d031a520bc2c989180c772dbc6851088"
     },
     "glue": {
@@ -139,8 +157,14 @@
     "rmsfact": {
       "Package": "rmsfact",
       "Version": "0.0.3",
-      "Source": "Repository",
-      "Repository": "CRAN",
+      "Source": "CRAN",
+      "Repository": "RSPM",
+      "RemoteType": "standard",
+      "RemotePkgRef": "rmsfact",
+      "RemoteRef": "rmsfact",
+      "RemoteRepos": "https://packagemanager.rstudio.com/all/__linux__/focal/latest",
+      "RemotePkgPlatform": "source",
+      "RemoteSha": "0.0.3",
       "Hash": "9e53733ec853fb8e5f2c74420c66e10b"
     },
     "stringi": {
@@ -159,10 +183,16 @@
     },
     "tinytex": {
       "Package": "tinytex",
-      "Version": "0.35",
-      "Source": "Repository",
+      "Version": "0.36",
+      "Source": "CRAN",
       "Repository": "RSPM",
-      "Hash": "1d7220fe46159fb9f5c99a44354a2bff"
+      "RemoteType": "standard",
+      "RemotePkgRef": "tinytex",
+      "RemoteRef": "tinytex",
+      "RemoteRepos": "https://packagemanager.rstudio.com/all/__linux__/focal/latest",
+      "RemotePkgPlatform": "source",
+      "RemoteSha": "0.36",
+      "Hash": "130fe4c61e55b271a2655b3a284a205f"
     },
     "xfun": {
       "Package": "xfun",
