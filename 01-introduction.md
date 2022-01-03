@@ -19,6 +19,45 @@ exercises: 2
 
 ## Introduction
 
+
+
+```r
+library(cowsay)
+say("hello")
+```
+
+```{.output}
+
+ -------------- 
+hello 
+ --------------
+    \
+      \
+        \
+            |\___/|
+          ==) ^Y^ (==
+            \  ^  /
+             )=*=(
+            /     \
+            |     |
+           /| | | |\
+           \| | |_|/\
+      jgs  //_// ___/
+               \_)
+  
+```
+
+```r
+library(clock)
+as_weekday(date_build(2020, 3, 16 + 0:4))
+```
+
+```{.output}
+<weekday[5]>
+[1] Mon Tue Wed Thu Fri
+```
+
+
 This is the new Carpentries template. It is written in [RMarkdown][r-markdown],
 which is a variant of Markdown that allows you to render code inside the
 lesson. Please refer to the [lesson
