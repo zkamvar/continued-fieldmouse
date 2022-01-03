@@ -19,6 +19,15 @@ exercises: 2
 
 ## Introduction
 
+
+```{r new-pkgs}
+library(cowsay)
+say("hello")
+library(clock)
+as_weekday(date_build(2020, 3, 16 + 0:4))
+```
+
+
 This is the new Carpentries template. It is written in [RMarkdown][r-markdown],
 which is a variant of Markdown that allows you to render code inside the
 lesson. Please refer to the [lesson
